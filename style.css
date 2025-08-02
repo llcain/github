@@ -29,6 +29,6 @@ body {
 }
 
 .footer {
-    background-color: aquamarine;
+    background-color: pink;
     grid-area: footer;
 }
