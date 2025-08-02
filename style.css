@@ -19,7 +19,7 @@ body {
 }
 
 .menu {
-    background-color: rgb(80, 40, 47);
+    background-color: rgb(175, 174, 174);
     grid-area: menu;
 }
 
@@ -31,4 +31,12 @@ body {
 .footer {
     background-color: pink;
     grid-area: footer;
+}
+
+.list li a {
+    text-decoration: none;    
+}
+
+.list li {
+    list-style: none;
 }
